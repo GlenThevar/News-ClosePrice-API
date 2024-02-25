@@ -1,0 +1,7 @@
+flask
+flask_restful
+flasgger
+bs4
+yfinance
+flask_cors
+gunicorn
