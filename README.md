@@ -1,4 +1,4 @@
-# NSE - Stock List and Comapny News
+# NSE - Company Closing Prices and Comapny News
 ![Image Description](./swaggerdocumentation2.png)
 
 This API allows users to retrieve information about a stock using its ticker symbol.
